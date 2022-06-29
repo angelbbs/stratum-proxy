@@ -1,14 +1,14 @@
-{
-   "ProxyList": [
-        {
-            "NameRU": "Прокси Россия (тест)",
-            "NameEN": "Proxy Russia (test)",
-            "Url": "nicehash.space"
-        },
-        {
-            "NameRU": "Прокси Россия 2 (тест)",
-            "NameEN": "Proxy Russia 2 (test)",
-            "Url": "nicehash.space"
-        }
-    ]
-}
+[
+  {
+   "NameRU": "Прокси Россия (тест)",
+   "NameEN": "Proxy Russia (test)",
+   "Production": false,
+   "Url": "nicehash.space"
+  },
+  {
+   "NameRU": "Прокси Россия 2 (тест)",
+   "NameEN": "Proxy Russia 2 (test)",
+   "Production": false,
+   "Url": "nicehash.space"
+  }
+]
