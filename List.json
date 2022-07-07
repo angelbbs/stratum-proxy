@@ -1,14 +1,14 @@
 [
   {
-   "NameRU": "Прокси Россия (тест)",
-   "NameEN": "Proxy Russia (test)",
+   "NameRU": "Прокси Россия (Москва)",
+   "NameEN": "Proxy Russia (Moskow)",
    "Production": false,
    "Url": "ru.stratum-proxy.ru"
   },
   {
-   "NameRU": "Прокси Россия 2 (тест)",
-   "NameEN": "Proxy Russia 2 (test)",
+   "NameRU": "Прокси Россия 2 (Рязань)",
+   "NameEN": "Proxy Russia 2 (Ryazan)",
    "Production": false,
-   "Url": "ru.stratum-proxy.ru"
+   "Url": "ru2.stratum-proxy.ru"
   }
 ]
